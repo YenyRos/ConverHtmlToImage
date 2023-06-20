@@ -1,4 +1,4 @@
-# ConverHtmlToImage
+# Conver Html To Image in Js
 This program in Js allows you to convert an HTML into an image (PNG, JPG, etc).
 
 1. Download project and open it in Visual Code.
