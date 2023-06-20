@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "puppeteer": "^20.5.0"
+  },
+  "name": "html-to-png",
+  "version": "1.0.0",
+  "main": "convert-to-image.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
